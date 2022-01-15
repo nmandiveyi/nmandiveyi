@@ -1,7 +1,7 @@
 ![About](https://github.com/nmandiveyi/nmandiveyi/blob/main/IMG_0999.jpg)
 ### Hi there 👋, I'm Ngoni!
 #### About
-I'm a Bachelor of Arts and Sciences student (final semester) at Quest University Canada (Squamish, British Columbia). I really love working with Python and Django and also have experience working with RDS and S3 on AWS.
+I'm a Bachelor of Arts and Sciences student (final semester) at Quest University Canada (Squamish, British Columbia). I really love working with Python and Django and also have experience working with RDS and S3 on AWS. I'm passionate about Computer Science and Physics, so if I have extra time, you're likely to find me playing around with circuits or reading research papers on CS.
 
 #### Skills
 * :snake: Python
