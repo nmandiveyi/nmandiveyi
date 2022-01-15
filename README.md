@@ -9,7 +9,7 @@ I'm a Bachelor of Arts and Sciences student (final semester) at Quest University
 * :computer: HTML, CSS, JS
 * :notebook_with_decorative_cover: R 
 * :abacus: Amazon RDS 
-* :bucket: Amazon S3
+* :basket: Amazon S3
 
 #### Quick Facts
 - 🔭 I’m currently working on Sentiment Analyzer 
