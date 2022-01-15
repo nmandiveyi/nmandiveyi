@@ -1,15 +1,15 @@
 ![About](https://github.com/nmandiveyi/nmandiveyi/blob/main/IMG_0999.jpg)
-### Hi there 👋, I'm Ngoni
+### Hi there 👋, I'm Ngoni!
 #### About
 I'm a Bachelor of Arts and Sciences student (final semester) at Quest University Canada (Squamish, British Columbia). I really love working with Python and Django and also have experience working with RDS and S3 on AWS.
 
 #### Skills
-* Python
-* Django
-* HTML, CSS, JS
-* R 
-* Amazon RDS 
-* Amazon S3
+* :snake: Python
+* :snake: Django
+* :computer: HTML, CSS, JS
+* :notebook_with_decorative_cover: R 
+* :abacus: Amazon RDS 
+* :bucket: Amazon S3
 
 #### Quick Facts
 - 🔭 I’m currently working on Sentiment Analyzer 
