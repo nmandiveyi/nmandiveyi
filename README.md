@@ -3,12 +3,19 @@
 #### About
 I'm a Bachelor of Arts and Sciences student (final semester) at Quest University Canada (Squamish, British Columbia). I really love working with Python and Django and also have experience working with RDS and S3 on AWS.
 
-Skills: JS / HTML / CSS / R / Amazon RDS / Amazon S3
+#### Skills
+* Python
+* Django
+* HTML, CSS, JS
+* R 
+* Amazon RDS 
+* Amazon S3
 
+#### Quick Facts
 - 🔭 I’m currently working on Sentiment Analyzer 
 - 🌱 I’m currently learning BERT 
 - 👯 I’m looking to collaborate on BERT 
-- ⚡ Fun fact: I can play Mbira 
+- ⚡ Fun fact: I can play Mbira!
 
 <br>
 
