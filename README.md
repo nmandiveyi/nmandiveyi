@@ -1,18 +1,18 @@
 ![About](https://github.com/nmandiveyi/nmandiveyi/blob/main/IMG_0999.jpg)
 ### Hi there 👋, I'm Ngoni!
 #### About
-I'm a Bachelor of Arts and Sciences student (final semester) at Quest University Canada (Squamish, British Columbia). I really love working with Python and Django and also have experience working with RDS and S3 on AWS. I'm passionate about Computer Science and Physics, so if I have extra time, you're likely to find me reading research papers on CS or playing around with circuits.
+I'm a Bachelor of Arts and Sciences graduate (April 2022) from Quest University Canada (Squamish, British Columbia). I really love working with Python and Django. I also have experience working with RDS and S3 on AWS. I'm passionate about Computer Science and Physics, so in my extra time, you're likely to find me reading research papers on CS or playing around with circuits.
 
 #### Skills
 * :snake: Python
 * :snake: Django
 * :computer: HTML, CSS, JS
-* :notebook_with_decorative_cover: R 
+* :notebook_with_decorative_cover: R Studio
 * :abacus: Amazon RDS 
 * :basket: Amazon S3
 
 #### Quick Facts
-- 🔭 I’m currently working on Sentiment Analyzer 
+- 🔭 I’m currently working on Convex Hull Computor and BillieBot
 - 🌱 I’m currently learning BERT 
 - 👯 I’m looking to collaborate on BERT 
 - ⚡ Fun fact: I can play Mbira!
