@@ -1,3 +1,5 @@
+<img src="./IMG_0999.jpg" alt="squamish questu" />
+
 <p align="center">
   <h3 align="center">Hi there 👋, I'm Ngoni!</h3>
 </p>
@@ -9,10 +11,6 @@
     <a href="https://linkedin.com/in/nmandiveyi">LinkedIn</a>
     ·
     <a href="https://twitter.com/ngoni.mandiveyi">Twitter</a>
-</p>
-
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=nmandiveyi&color=blue&style=flat-square" alt="nmandiveyi profile views" />
 </p>
 
 <hr/>
