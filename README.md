@@ -16,7 +16,7 @@
 <hr/>
 
 #### About
-Early career software engineer with 3+ YOE building full-fledged/full-featured web applications. I can do pretty much anything across the SD life cycle with backend and frontend development being my strongest suit. 
+Early career software engineer with 3+ YOE building full-fledged/full-featured web applications. I can do pretty much anything across the SD life cycle with backend and frontend development being my strongest suits. 
 
 #### Skills
 * :snake: Python
