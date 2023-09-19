@@ -10,7 +10,7 @@
     ·
     <a href="https://linkedin.com/in/nmandiveyi">LinkedIn</a>
     ·
-    <a href="https://twitter.com/ngoni.mandiveyi">Twitter</a>
+    <a href="https://twitter.com/ngonimandiveyi">Twitter</a>
 </p>
 
 <hr/>
