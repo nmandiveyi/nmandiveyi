@@ -35,7 +35,7 @@ Early career software engineer with 3+ YOE building full-fledged/full-featured w
 <div align="center"> 
 <h3 align="center">Let's get in touch</h3>
 
-[!["Add me on Twitter"](https://img.shields.io/twitter/follow/ngonimandiveyi?label=Follow%20me)](https://twitter.com/hashirshoaeb)
+[!["Add me on Twitter"](https://img.shields.io/twitter/follow/ngonimandiveyi?label=Follow%20me)](https://twitter.com/ngonimandiveyi)
 [!["Connect with me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nmandiveyi)
 
 </div>
