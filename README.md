@@ -31,3 +31,11 @@ Early career software engineer with 3+ YOE building full-fledged/full-featured w
 - 🌱 I’m currently learning [**Apache Kafka**](https://kafka.apache.org/documentation/) and **Software Architecture Principles**
 - 👯 I’m looking to collaborate on Event Stream driven projects 
 - ⚡ Fun fact: I can play Mbira!
+
+<div align="center"> 
+<h3 align="center">Let's get in touch</h3>
+
+[!["Add me on Twitter"](https://img.shields.io/twitter/follow/ngonimandiveyi?label=Follow%20me)](https://twitter.com/hashirshoaeb)
+[!["Connect with me on LinkedIn"](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nmandiveyi)
+
+</div>
