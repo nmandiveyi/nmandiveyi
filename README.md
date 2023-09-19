@@ -1,7 +1,7 @@
 <img src="./IMG_0999.jpg" alt="squamish questu" />
 
 <p align="center">
-  <h3 align="center">Hi there 👋, I'm Ngoni!</h3>
+  <h3 align="center">Hi there 🙋🏾‍♂️, I'm Ngoni!</h3>
 </p>
 <p align="center">
     <a href="https://nmandiveyi.com">About Me</a>
