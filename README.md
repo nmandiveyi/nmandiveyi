@@ -1,5 +1,22 @@
-![About](https://github.com/nmandiveyi/nmandiveyi/blob/main/IMG_0999.jpg)
-### Hi there 👋, I'm Ngoni!
+<p align="center">
+  <h3 align="center">Hi there 👋, I'm Ngoni!</h3>
+</p>
+<p align="center">
+    <a href="https://nmandiveyi.com">About Me</a>
+    ·
+    <a href="ngonidzashehh@gmail.com">Email</a>
+    ·
+    <a href="https://linkedin.com/in/nmandiveyi">LinkedIn</a>
+    ·
+    <a href="https://twitter.com/ngoni.mandiveyi">Twitter</a>
+</p>
+
+<p align="center"> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=nmandiveyi&color=blue&style=flat-square" alt="nmandiveyi profile views" />
+</p>
+
+<hr/>
+
 #### About
 Early career software engineer with 3+ YOE building full-fledged/full-featured web applications. I can do pretty much anything across the SD life cycle with backend and frontend development being my strongest suit. 
 
